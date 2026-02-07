@@ -11,7 +11,7 @@ This file was pushed using clone method
 #### Pull request
 
 
-```
+``` html
 <!doctype html>
 <html lang="en">
   <head>
